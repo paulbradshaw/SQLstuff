@@ -1,2 +1,4 @@
-# SQLstuff
-Notes, tools, examples for SQL and its variants
+# SQL stuff
+
+This repo is for notes, tools, examples for SQL and its variants. 
+
